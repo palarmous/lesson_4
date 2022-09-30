@@ -1,0 +1,49 @@
+header,
+footer{
+	color: aqua;
+}
+
+a{
+	color: red;
+}
+
+h1,
+h2{
+	color: blue;
+}
+h3{
+	color: rgb(0, 170, 255);
+}
+
+div{
+	color: rgb(66, 5, 123);
+}
+
+.link.page{
+	color: darkorange;
+}
+
+div.text{
+	color: brown;
+}
+
+.text p{
+	color: rgb(25, 146, 1);
+}
+
+.text .paragraph{
+	color: rgb(57, 255, 57);
+}
+
+#idp{
+	color: burlywood;
+}
+
+ul,
+ol{
+	color: rgb(122, 120, 7);
+}
+
+span{
+	color: rgb(232, 0, 124);
+}
